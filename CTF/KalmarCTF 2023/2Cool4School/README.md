@@ -1,4 +1,7 @@
 # Writeup
+## Inspiration
+Based on Apero CAS, CVE-2017-1000071
+
 ## SSO Docs
 Reading the html of the login page, shows a comment about TODOs which includes updating the swagger docs. Swagger is a common tool for sharing API documentation and can be accessed on /swagger of the sso.
 This includes the /register which gives a new account.
